@@ -32,12 +32,22 @@
 		
 		<div class="wrapper pa-0">
 			<header class="sp-header">
-				<div class="sp-logo-wrap pull-left">
-					<a href="index.html">
-						<img class="brand-img mr-10" src="img/logo.png" alt="brand"/>
-						<span class="brand-text">Attendance System</span>
-					</a>
-				</div>
+			
+             
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">Register Pannel</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="#">Log Out</a></li>
+      <li><a href="#">Settting</a></li>
+      <li><a href="#">Page 3</a></li>
+    </ul>
+  </div>
+</nav>
+			
 				<div class="form-group mb-0 pull-right">
 					
 				</div>
@@ -84,7 +94,7 @@
 													<div class="clearfix"></div>
 												</div>
 												<div class="form-group text-center">
-													<button type="submit" class="btn btn-warning ">sign Up</button>
+													<button type="submit" class="btn btn-danger">sign Up</button>
 												</div>
 											</form>
 										</div>
