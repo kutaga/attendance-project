@@ -63,6 +63,10 @@
 													<label class="control-label mb-10" for="exampleInputName_1">Username</label>
 													<input type="email" class="form-control" required="" id="exampleInputName_1" placeholder="Username">
 												</div>
+													<div class="form-group">
+													<label class="control-label mb-10" for="exampleInputName_1">ID</label>
+													<input type="text" class="form-control" required="" id="exampleInputName_1" placeholder="ID">
+												</div>
 												<div class="form-group">
 													<label class="control-label mb-10" for="exampleInputEmail_2">Email address</label>
 													<input type="email" class="form-control" required="" id="exampleInputEmail_2" placeholder="Enter email">
@@ -80,7 +84,7 @@
 													<div class="clearfix"></div>
 												</div>
 												<div class="form-group text-center">
-													<button type="submit" class="btn btn-warning btn-rounded">sign Up</button>
+													<button type="submit" class="btn btn-warning ">sign Up</button>
 												</div>
 											</form>
 										</div>
