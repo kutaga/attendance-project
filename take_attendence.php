@@ -364,8 +364,9 @@
 				<!-- Title -->
 				<div class="row heading-bg">
 					<div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
-						<h5 class="txt-dark">blank page</h5>
+						<h5 class="txt-dark">Attended student</h5>
 					</div>
+                  
                      <!-- Basic Table -->
 					<div class="col-sm-12">
 						<div class="panel panel-default card-view">
@@ -442,7 +443,6 @@
 						</div>
 					</div>
 					<!-- /Basic Table -->
-
 					<!-- Breadcrumb -->
 					<div class="col-lg-9 col-sm-8 col-md-8 col-xs-12">
 						
