@@ -5,7 +5,7 @@
 <head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-		<title>Forget Password Page</title>
+		<title>Bunny I Fast build Admin dashboard for any platform</title>
 		<meta name="description" content="Bunny is a Dashboard & Admin Site Responsive Template by hencework." />
 		<meta name="keywords" content="admin, admin dashboard, admin template, cms, crm, Bunny Admin, Bunnyadmin, premium admin templates, responsive admin, sass, panel, software, ui, visualization, web app, application" />
 		<meta name="author" content="hencework"/>
@@ -37,15 +37,15 @@
 							<div class="auth-form  ml-auto mr-auto no-float">
 								<div class="row">
 									<div class="col-sm-12 col-xs-12">
-									<!--	<div class="sp-logo-wrap text-center pa-0 mb-30">
+										<div class="sp-logo-wrap text-center pa-0 mb-30">
 											<a href="index.html">
 												<img class="brand-img mr-10" src="../img/logo.png" alt="brand"/>
 												<span class="brand-text">Bunny</span>
 											</a>
-										</div> -->
+										</div>
 										<div class="mb-30">
 											<h3 class="text-center txt-dark mb-10">Need help with your password?</h3>
-											<h6 class="text-center txt-grey nonecase-font">Enter the email you use for Attendency System, and we’ll help you create a new password.</h6>
+											<h6 class="text-center txt-grey nonecase-font">Enter the email you use for Bunny, and we’ll help you create a new password.</h6>
 										</div>	
 										<div class="form-wrap">
 											<form action="#">
