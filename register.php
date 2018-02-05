@@ -6,7 +6,7 @@
 <head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-		<title>Attendance System </title>
+		<title>Sign Up </title>
 		<meta name="description" content="Bunny is a Dashboard & Admin Site Responsive Template by hencework." />
 		<meta name="keywords" content="admin, admin dashboard, admin template, cms, crm, Bunny Admin, Bunnyadmin, premium admin templates, responsive admin, sass, panel, software, ui, visualization, web app, application" />
 		<meta name="author" content="hencework"/>
@@ -39,8 +39,7 @@
 					</a>
 				</div>
 				<div class="form-group mb-0 pull-right">
-					<span class="inline-block pr-10">Already have an account?</span>
-					<a class="inline-block btn btn-warning btn-rounded btn-outline" href="login.html">Sign In</a>
+					
 				</div>
 				<div class="clearfix"></div>
 			</header>
@@ -55,7 +54,7 @@
 								<div class="row">
 									<div class="col-sm-12 col-xs-12">
 										<div class="mb-30">
-											<h3 class="text-center txt-dark mb-10">Sign Up</h3>
+											<h3 class="text-center txt-dark mb-10">Register New User</h3>
 											<h6 class="text-center nonecase-font txt-grey">Enter your details below</h6>
 										</div>	
 										<div class="form-wrap">
@@ -77,10 +76,7 @@
 													<input type="password" class="form-control" required="" id="exampleInputpwd_3" placeholder="Enter pwd">
 												</div>
 												<div class="form-group">
-													<div class="checkbox checkbox-primary pr-10 pull-left">
-														<input id="checkbox_2" required="" type="checkbox">
-														<label for="checkbox_2"> I agree to all <span class="txt-primary">Terms</span></label>
-													</div>
+													
 													<div class="clearfix"></div>
 												</div>
 												<div class="form-group text-center">
