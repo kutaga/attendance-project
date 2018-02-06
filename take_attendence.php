@@ -372,13 +372,13 @@
 						<div class="panel panel-default card-view">
 							<div class="panel-heading">
 								<div class="pull-left">
-									<h6 class="panel-title txt-dark">Basic Table</h6>
+									<h6 class="panel-title txt-dark">Student attendenceTable</h6>
 								</div>
 								<div class="clearfix"></div>
 							</div>
 							<div class="panel-wrapper collapse in">
 								<div class="panel-body">
-									<p class="text-muted">Add class <code>table</code> in table tag.</p>
+									<p class="text-muted">Mark the  <code>Student</code> if their present or absent</p>
 									<div class="table-wrap mt-40">
 										<div class="table-responsive">
 											<table class="table mb-0">
@@ -387,51 +387,55 @@
 													<th>#</th>
 													<th>First Name</th>
 													<th>Last Name</th>
-													<th>Username</th>
-													<th>Attendence</th>
+													
+													<th>Present</th>
+													<th>Absent</th>
 												  </tr>
 												</thead>
 												<tbody>
 												  <tr>
 													<td>1</td>
-													<td>Jens</td>
-													<td>Brincker</td>
-													<td>Brincker123</td>
+													<td>Ramadhani</td>
+													<td>Khamisi</td>
+													
 													<td><span class="label label-danger">Present</span> </td>
 												  </tr>
 												  <tr>
 													<td>2</td>
-													<td>Mark</td>
-													<td>Hay</td>
-													<td>Hay123</td>
+													<td>Domina </td>
+													<td>sweetbert</td>
+													
 													<td><span class="label label-danger">Present</span> </td>
 												  </tr>
 												  <tr>
 													<td>3</td>
-													<td>Anthony</td>
-													<td>Davie</td>
-													<td>Davie123</td>
-													<td><span class="label label-danger">Present</span> </td>
+													<td>Daniel</td>
+													<td>Kindimba</td>
+													
+													<td><button class="btn btn-primary btn-xs btn-rounded btn-icon left-icon"> <i class=" fa-thumbs-down"></i> <span>present</span></button>
+													</td>
+													<td><button class="btn btn-danger btn-xs btn-rounded btn-icon left-icon"> <i class=" fa-thumbs-up"></i> <span>Absent</span></button>
+													</td>
 												  </tr>
 												  <tr>
 													<td>4</td>
-													<td>David</td>
-													<td>Perry</td>
-													<td>Perry123</td>
+													<td>Selemani</td>
+													<td>Mwanjalulu</td>
+													
 												<td><span class="label label-danger">Present</span> </td>
 												  </tr>
 												  <tr>
 													<td>5</td>
-													<td>Anthony</td>
-													<td>Davie</td>
-													<td>Davie123</td>
+													<td>Aretus</td>
+													<td>Michael</td>
+													
 													<td><span class="label label-danger">Present</span> </td>
 												  </tr>
 												  <tr>
 													<td>6</td>
-													<td>Alan</td>
-													<td>Gilchrist</td>
-													<td>Gilchrist123</td>
+													<td>Michael</td>
+													<td>Kimath</td>
+												
 													<td><span class="label label-danger">Present</span> </td>
 												  </tr>
 												</tbody>
