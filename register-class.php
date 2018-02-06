@@ -68,8 +68,8 @@
 													<input type="email" class="form-control" required="" id="exampleInputEmail_2" placeholder="teacher name ">
 												</div>
 												<div class="form-group">
-													<label class="pull-left control-label mb-10" for="exampleInputpwd_2">Number of student</label>
-													<input type="password" class="form-control" required="" id="exampleInputpwd_2" placeholder="student number">
+													<label class="pull-left control-label mb-10" for="exampleInputpwd_2">Total number of student</label>
+													<input type="password" class="form-control" required="" id="exampleInputpwd_2" placeholder="number of the student in the class">
 												</div>
 												
 												
