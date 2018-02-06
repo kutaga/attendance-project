@@ -1253,79 +1253,85 @@ Third Year, Bachelor of Computer Science
         <div class="row">
 				  <div class="col-md-8 col-md-offset-2">
             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-              <div class="panel panel-default card-view pa-0">
-                <div class="panel-wrapper collapse in">
-                  <div class="panel-body pa-0">
-                    <div class="sm-data-box">
-                      <div class="container-fluid">
-                        <div class="row">
-                          <div class="col-xs-6 text-center pl-0 pr-0 data-wrap-left">
-                            <span class="txt-dark block">
-                              <span>914,001</span>
-                            </span>
-                            <span class="weight-500 uppercase-font block font-13">
-                              Students
-                            </span>
-                          </div>
-                          <div class="col-xs-6 text-center  pl-0 pr-0 data-wrap-right">
-                            <i class="icon-user-following data-right-rep-icon txt-light-grey"></i>
+              <a href="students.php">
+                <div class="panel panel-default card-view pa-0">
+                  <div class="panel-wrapper collapse in">
+                    <div class="panel-body pa-0">
+                      <div class="sm-data-box">
+                        <div class="container-fluid">
+                          <div class="row">
+                            <div class="col-xs-6 text-center pl-0 pr-0 data-wrap-left">
+                              <span class="txt-dark block">
+                                <span>914,001</span>
+                              </span>
+                              <span class="weight-500 uppercase-font block font-13">
+                                Students
+                              </span>
+                            </div>
+                            <div class="col-xs-6 text-center  pl-0 pr-0 data-wrap-right">
+                              <i class="icon-user-following data-right-rep-icon txt-light-grey"></i>
+                            </div>
                           </div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-              </div>
+              </a>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
               <div class="panel panel-default card-view pa-0">
-                <div class="panel-wrapper collapse in">
-                  <div class="panel-body pa-0">
-                    <div class="sm-data-box">
-                      <div class="container-fluid">
-                        <div class="row">
-                          <div class="col-xs-6 text-center pl-0 pr-0 data-wrap-left">
-                            <span class="txt-dark block">
-                              <span>200</span>
-                            </span>
-                            <span class="weight-500 uppercase-font block font-13">
-                              Lecturers
-                            </span>
-                          </div>
-                          <div class="col-xs-6 text-center  pl-0 pr-0 data-wrap-right">
-                            <i class="icon-user-following data-right-rep-icon txt-light-grey"></i>
+                <a href="lecturers.php">
+                  <div class="panel-wrapper collapse in">
+                    <div class="panel-body pa-0">
+                      <div class="sm-data-box">
+                        <div class="container-fluid">
+                          <div class="row">
+                            <div class="col-xs-6 text-center pl-0 pr-0 data-wrap-left">
+                              <span class="txt-dark block">
+                                <span>200</span>
+                              </span>
+                              <span class="weight-500 uppercase-font block font-13">
+                                Lecturers
+                              </span>
+                            </div>
+                            <div class="col-xs-6 text-center  pl-0 pr-0 data-wrap-right">
+                              <i class="icon-user-following data-right-rep-icon txt-light-grey"></i>
+                            </div>
                           </div>
                         </div>
                       </div>
                     </div>
                   </div>
-                </div>
+                </a>
               </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-              <div class="panel panel-default card-view pa-0">
-                <div class="panel-wrapper collapse in">
-                  <div class="panel-body pa-0">
-                    <div class="sm-data-box">
-                      <div class="container-fluid">
-                        <div class="row">
-                          <div class="col-xs-6 text-center pl-0 pr-0 data-wrap-left">
-                            <span class="txt-dark block">
-                              <span>914,001</span>
-                            </span>
-                            <span class="weight-500 uppercase-font block font-13">
-                              Courses
-                            </span>
-                          </div>
-                          <div class="col-xs-6 text-center  pl-0 pr-0 data-wrap-right">
-                            <i class="fa fa-book data-right-rep-icon txt-light-grey"></i>
+              <a href="courses.php">
+                <div class="panel panel-default card-view pa-0">
+                  <div class="panel-wrapper collapse in">
+                    <div class="panel-body pa-0">
+                      <div class="sm-data-box">
+                        <div class="container-fluid">
+                          <div class="row">
+                            <div class="col-xs-6 text-center pl-0 pr-0 data-wrap-left">
+                              <span class="txt-dark block">
+                                <span>914,001</span>
+                              </span>
+                              <span class="weight-500 uppercase-font block font-13">
+                                Courses
+                              </span>
+                            </div>
+                            <div class="col-xs-6 text-center  pl-0 pr-0 data-wrap-right">
+                              <i class="fa fa-book data-right-rep-icon txt-light-grey"></i>
+                            </div>
                           </div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-              </div>
+              </a>
             </div>
 				  </div>
         </div>

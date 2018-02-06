@@ -1278,46 +1278,52 @@ Third Year, Bachelor of Computer Science
 												</thead>
 												<tbody>
 												  <tr>
-													<td>1</td>
-													<td>Jens</td>
-													<td>Brincker</td>
-													<td>Brincker123</td>
-													<td><span class="label label-danger">admin</span> </td>
+  													<td>1</td>
+  													<td>Daniel</td>
+  													<td>Kindimba</td>
+  													<td>Bachelor of Computer Science</td>
+  													<td>
+                              <a href="" class="btn btn-sm btn-success">
+                                <i class="fa fa-edit"></i>
+                              </a>
+
+                              <a href="" class="btn btn-sm btn-danger">
+                                <i class="fa fa-trash"></i>
+                              </a>
+                            </td>
 												  </tr>
-												  <tr>
-													<td>2</td>
-													<td>Mark</td>
-													<td>Hay</td>
-													<td>Hay123</td>
-													<td><span class="label label-info">member</span> </td>
+
+                          <tr>
+  													<td>2</td>
+  													<td>Emmanuel</td>
+  													<td>Mtangi</td>
+  													<td>Bachelor of Computer Science</td>
+  													<td>
+                              <a href="" class="btn btn-sm btn-success">
+                                <i class="fa fa-edit"></i>
+                              </a>
+
+                              <a href="" class="btn btn-sm btn-danger">
+                                <i class="fa fa-trash"></i>
+                              </a>
+                            </td>
 												  </tr>
-												  <tr>
-													<td>3</td>
-													<td>Anthony</td>
-													<td>Davie</td>
-													<td>Davie123</td>
-													<td><span class="label label-warning">developer</span> </td>
-												  </tr>
-												  <tr>
-													<td>4</td>
-													<td>David</td>
-													<td>Perry</td>
-													<td>Perry123</td>
-													<td><span class="label label-success">supporter</span> </td>
-												  </tr>
-												  <tr>
-													<td>5</td>
-													<td>Anthony</td>
-													<td>Davie</td>
-													<td>Davie123</td>
-													<td><span class="label label-info">member</span> </td>
-												  </tr>
-												  <tr>
-													<td>6</td>
-													<td>Alan</td>
-													<td>Gilchrist</td>
-													<td>Gilchrist123</td>
-													<td><span class="label label-success">supporter</span> </td>
+
+
+                          <tr>
+  													<td>3</td>
+  													<td>Walter</td>
+  													<td>Kindimba</td>
+  													<td>Bachelor of Computer Science</td>
+  													<td>
+                              <a href="" class="btn btn-sm btn-success">
+                                <i class="fa fa-edit"></i>
+                              </a>
+
+                              <a href="" class="btn btn-sm btn-danger">
+                                <i class="fa fa-trash"></i>
+                              </a>
+                            </td>
 												  </tr>
 												</tbody>
 											</table>
