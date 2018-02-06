@@ -36,7 +36,7 @@
 <!-- Top Menu Items -->
 
 			<?php include("navbar.php");?>
-
+<?php include("side-menu.php");?>
 				<div class="form-group mb-0 pull-right">
 					
 				</div>
@@ -53,14 +53,14 @@
 								<div class="row">
 									<div class="col-sm-12 col-xs-12">
 										<div class="mb-30">
-											<h3 class="text-center txt-dark mb-10">Register New User</h3>
+											<h3 class="text-center txt-dark mb-10">Student Registration</h3>
 											<h6 class="text-center nonecase-font txt-grey">Enter your details below</h6>
 										</div>	
 										<div class="form-wrap">
 											<form action="#">
 												<div class="form-group">
 													<label class="control-label mb-10" for="exampleInputName_1">Username</label>
-													<input type="text" class="form-control" required="" id="exampleInputName_1" placeholder="Username">
+													<input type="text" class="form-control" required="" id="exampleInputName_1" placeholder="Username..">
 												
 
 												</div>
