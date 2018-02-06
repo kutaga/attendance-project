@@ -2,7 +2,7 @@
     <div class="mobile-only-brand pull-left">
         <div class="nav-header pull-left">
             <div class="logo-wrap">
-                <a href="index.html">
+                <a href="index.php">
                     <img class="brand-img" src="img/logo.png" width="25" alt="Attendance"/>
                     <span class="brand-text">Attendance</span>
                 </a>
