@@ -398,45 +398,59 @@
 													<td>Ramadhani</td>
 													<td>Khamisi</td>
 													
-													<td><span class="label label-danger">Present</span> </td>
+													<td><button class="btn btn-primary btn-xs btn-rounded btn-icon left-icon"> <i class=" glyphicon glyphicon-thumbs-up"></i> <span>present</span></button>
+													</td>
+													<td><button class="btn btn-danger btn-xs btn-rounded btn-icon left-icon"> <i class=" glyphicon glyphicon-thumbs-down"></i> <span>Absent</span></button>
+													</td>
 												  </tr>
 												  <tr>
 													<td>2</td>
 													<td>Domina </td>
 													<td>sweetbert</td>
 													
-													<td><span class="label label-danger">Present</span> </td>
+													<td><button class="btn btn-primary btn-xs btn-rounded btn-icon left-icon"> <i class=" glyphicon glyphicon-thumbs-up"></i> <span>present</span></button>
+													</td>
+													<td><button class="btn btn-danger btn-xs btn-rounded btn-icon left-icon"> <i class=" glyphicon glyphicon-thumbs-down"></i> <span>Absent</span></button>
+													</td>
 												  </tr>
 												  <tr>
 													<td>3</td>
 													<td>Daniel</td>
 													<td>Kindimba</td>
 													
-													<td><button class="btn btn-primary btn-xs btn-rounded btn-icon left-icon"> <i class=" fa-thumbs-down"></i> <span>present</span></button>
+													<td><button class="btn btn-primary btn-xs btn-rounded btn-icon left-icon"> <i class=" glyphicon glyphicon-thumbs-up"></i> <span>present</span></button>
 													</td>
-													<td><button class="btn btn-danger btn-xs btn-rounded btn-icon left-icon"> <i class=" fa-thumbs-up"></i> <span>Absent</span></button>
+													<td><button class="btn btn-danger btn-xs btn-rounded btn-icon left-icon"> <i class=" glyphicon glyphicon-thumbs-down"></i> <span>Absent</span></button>
 													</td>
 												  </tr>
 												  <tr>
 													<td>4</td>
 													<td>Selemani</td>
 													<td>Mwanjalulu</td>
-													
-												<td><span class="label label-danger">Present</span> </td>
+											<td><button class="btn btn-primary btn-xs btn-rounded btn-icon left-icon"> <i class=" glyphicon glyphicon-thumbs-up"></i> <span>present</span></button>
+													</td>
+													<td><button class="btn btn-danger btn-xs btn-rounded btn-icon left-icon"> <i class=" glyphicon glyphicon-thumbs-down"></i> <span>Absent</span></button>
+													</td>
 												  </tr>
 												  <tr>
 													<td>5</td>
 													<td>Aretus</td>
 													<td>Michael</td>
 													
-													<td><span class="label label-danger">Present</span> </td>
+													<td><button class="btn btn-primary btn-xs btn-rounded btn-icon left-icon"> <i class=" glyphicon glyphicon-thumbs-up"></i> <span>present</span></button>
+													</td>
+													<td><button class="btn btn-danger btn-xs btn-rounded btn-icon left-icon"> <i class=" glyphicon glyphicon-thumbs-down"></i> <span>Absent</span></button>
+													</td>
 												  </tr>
 												  <tr>
 													<td>6</td>
 													<td>Michael</td>
 													<td>Kimath</td>
 												
-													<td><span class="label label-danger">Present</span> </td>
+													<td><button class="btn btn-primary btn-xs btn-rounded btn-icon left-icon"> <i class=" glyphicon glyphicon-thumbs-up"></i> <span>present</span></button>
+													</td>
+													<td><button class="btn btn-danger btn-xs btn-rounded btn-icon left-icon"> <i class=" glyphicon glyphicon-thumbs-down"></i> <span>Absent</span></button>
+													</td>
 												  </tr>
 												</tbody>
 											</table>
