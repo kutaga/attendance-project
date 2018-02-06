@@ -61,15 +61,7 @@
 					<li>
 						<a id="open_right_sidebar" href="#"><i class="zmdi zmdi-settings top-nav-icon"></i></a>
 					</li>
-					<li class="dropdown app-drp">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="zmdi zmdi-apps top-nav-icon"></i></a>
-						<ul class="dropdown-menu app-dropdown" data-dropdown-in="slideInRight" data-dropdown-out="flipOutX">
-							
-								<div class="app-box-bottom-wrap">
-									<hr class="light-grey-hr ma-0"/>
-									<a class="block text-center read-all" href="javascript:void(0)"> more </a>
-								</div>
-							</li>
+					<li c
 						</ul>
 					</li>
 										
@@ -163,7 +155,7 @@
 													<div class="clearfix"></div>
 												</div>
 												<div class="form-group text-center">
-													
+													<input type="button" name="save" value="Save" class="btn btn-warning">
 												</div>
 											</form>
 											<p>Complete registration on next Steps</p>
