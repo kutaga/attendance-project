@@ -3,7 +3,7 @@
         <div class="nav-header pull-left">
             <div class="logo-wrap">
                 <a href="index.html">
-                    <img class="brand-img" src="../img/logo.png" alt="brand"/>
+                    <img class="brand-img" src="img/avatar.png" alt="brand"/>
                     <span class="brand-text">Attendance</span>
                 </a>
             </div>
