@@ -5,9 +5,9 @@
 <head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-		<title>Forget Password Page</title>
-		<meta name="description" content="Bunny is a Dashboard & Admin Site Responsive Template by hencework." />
-		<meta name="keywords" content="admin, admin dashboard, admin template, cms, crm, Bunny Admin, Bunnyadmin, premium admin templates, responsive admin, sass, panel, software, ui, visualization, web app, application" />
+		<title>Password Reset Page</title>
+		<meta name="description" content="Attendance system for secondary school students." />
+		<meta name="keywords" content="admin, admin dashboard, admin template, cms, Attendance, School, premium admin templates, responsive admin, sass, panel, software, ui, visualization, web app, application" />
 		<meta name="author" content="hencework"/>
 		
 		<!-- Favicon -->
@@ -15,10 +15,10 @@
 		<link rel="icon" href="favicon.ico" type="image/x-icon">
 		
 		<!-- vector map CSS -->
-		<link href="../vendors/bower_components/jasny-bootstrap/dist/css/jasny-bootstrap.min.css" rel="stylesheet" type="text/css"/>
+		<link href="vendors/bower_components/jasny-bootstrap/dist/css/jasny-bootstrap.min.css" rel="stylesheet" type="text/css"/>
 		
 		<!-- Custom CSS -->
-		<link href="dist/css/style.css" rel="stylesheet" type="text/css">
+		<link href="template/dist/css/style.css" rel="stylesheet" type="text/css">
 	</head>
 	<body>
 		<!--Preloader-->
@@ -75,17 +75,17 @@
 		<!-- JavaScript -->
 		
 		<!-- jQuery -->
-		<script src="../vendors/bower_components/jquery/dist/jquery.min.js"></script>
+		<script src="vendors/bower_components/jquery/dist/jquery.min.js"></script>
 		
 		<!-- Bootstrap Core JavaScript -->
-		<script src="../vendors/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-		<script src="../vendors/bower_components/jasny-bootstrap/dist/js/jasny-bootstrap.min.js"></script>
+		<script src="vendors/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+		<script src="vendors/bower_components/jasny-bootstrap/dist/js/jasny-bootstrap.min.js"></script>
 		
 		<!-- Slimscroll JavaScript -->
-		<script src="dist/js/jquery.slimscroll.js"></script>
+		<script src="template/dist/js/jquery.slimscroll.js"></script>
 		
 		<!-- Init JavaScript -->
-		<script src="dist/js/init.js"></script>
+		<script src="template/dist/js/init.js"></script>
 	</body>
 
 <!-- Mirrored from hencework.com/theme/bunny/full-width-light/forgot-password.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 29 Jan 2018 03:13:32 GMT -->
