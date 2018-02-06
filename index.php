@@ -1,37 +1,29 @@
-<<<<<<< HEAD
-
 <!DOCTYPE html>
+<!--
+By Daniel Kindimba
+Institute of Finance Management
+Third Year, Bachelor of Computer Science
+-->
+
 <html lang="en">
 <head>
-    <meta charset="UTF-8" />
+  <meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 	<title>Attendance</title>
 	<meta name="description" content="Bunny is a Dashboard & Admin Site Responsive Template by hencework." />
 	<meta name="keywords" content="admin, admin dashboard, admin template, cms, crm, Bunny Admin, Bunnyadmin, premium admin templates, responsive admin, sass, panel, software, ui, visualization, web app, application" />
 	<meta name="author" content="hencework"/>
-	
+
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="favicon.ico">
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
 
 	<!-- Data table CSS -->
 	<link href="vendors/bower_components/datatables/media/css/jquery.dataTables.min.css" rel="stylesheet" type="text/css"/>
-	
+
 	<!-- Custom CSS -->
 	<link href="template/dist/css/style.css" rel="stylesheet" type="text/css">
 </head>
-
-=======
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Attendance</title>
-  	<?php
-    include("pages/meta.php");
-    include("pages/external_css.php")
-    ?>
-</head>
->>>>>>> 0c02006ab3a2c0e1ef1eed5c240ffe3caaccee56
 <body>
 	<!--Preloader-->
 	<div class="preloader-it">
@@ -41,7 +33,6 @@
     <div class="wrapper theme-1-active pimary-color-green">
 
         <!-- Top Menu Items -->
-<<<<<<< HEAD
 		<nav class="navbar navbar-inverse navbar-fixed-top">
 			<div class="mobile-only-brand pull-left">
 				<div class="nav-header pull-left">
@@ -51,7 +42,7 @@
 							<span class="brand-text">Bunny</span>
 						</a>
 					</div>
-				</div>	
+				</div>
 				<a id="toggle_nav_btn" class="toggle-left-nav-btn inline-block ml-20 pull-left" href="javascript:void(0);"><i class="zmdi zmdi-menu"></i></a>
 				<a id="toggle_mobile_search" data-toggle="collapse" data-target="#search_form" class="mobile-only-view" href="javascript:void(0);"><i class="zmdi zmdi-search"></i></a>
 				<a id="toggle_mobile_nav" class="mobile-only-view" href="javascript:void(0);"><i class="zmdi zmdi-more"></i></a>
@@ -112,7 +103,7 @@
 											</a>
 										</li>
 									</ul>
-								</div>	
+								</div>
 							</li>
 							<li>
 								<div class="app-box-bottom-wrap">
@@ -158,7 +149,7 @@
 										<a href="javascript:void(0);">
 											<div class="pull-left">
 												<i class="zmdi zmdi-shopping-basket mr-20"></i><span class="right-nav-text">E-Commerce</span>
-											</div>	
+											</div>
 											<div class="pull-right"><span class="label label-success">hot</span>
 											</div>
 											<div class="clearfix"></div>
@@ -211,11 +202,11 @@
 											<a href="#">
 												<img src="../img/chair2.jpg" alt="chair">
 												<span>square chair</span>
-											</a>								
+											</a>
 										</div>
 									</li>
 								</ul>
-							</li>	
+							</li>
 						</ul>
 					</li>
 					<li class="dropdown alert-drp">
@@ -243,7 +234,7 @@
 												<div class="clearfix"></div>
 												<p class="truncate">Your customer subscribed for the basic plan. The customer will pay $25 per month.</p>
 											</div>
-										</a>	
+										</a>
 									</div>
 									<hr class="light-grey-hr ma-0"/>
 									<div class="sl-item">
@@ -257,7 +248,7 @@
 												<div class="clearfix"></div>
 												<p class="truncate">Some technical error occurred needs to be resolved.</p>
 											</div>
-										</a>	
+										</a>
 									</div>
 									<hr class="light-grey-hr ma-0"/>
 									<div class="sl-item">
@@ -271,7 +262,7 @@
 												<div class="clearfix"></div>
 												<p class="truncate"> The last payment for your G Suite Basic subscription failed.</p>
 											</div>
-										</a>	
+										</a>
 									</div>
 									<hr class="light-grey-hr ma-0"/>
 									<div class="sl-item">
@@ -285,7 +276,7 @@
 												<div class="clearfix"></div>
 												<p class="truncate">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit</p>
 											</div>
-										</a>	
+										</a>
 									</div>
 									<hr class="light-grey-hr ma-0"/>
 									<div class="sl-item">
@@ -299,7 +290,7 @@
 												<div class="clearfix"></div>
 												<p class="truncate">consectetur, adipisci velit.</p>
 											</div>
-										</a>	
+										</a>
 									</div>
 								</div>
 							</li>
@@ -340,7 +331,7 @@
 									<li>
 										<a href="#"><i class="zmdi zmdi-minus-circle-outline text-danger"></i><span>offline</span></a>
 									</li>
-								</ul>	
+								</ul>
 							</li>
 							<li class="divider"></li>
 							<li>
@@ -349,15 +340,15 @@
 						</ul>
 					</li>
 				</ul>
-			</div>	
+			</div>
 		</nav>
 		<!-- /Top Menu Items -->
-		
+
 		<!-- Left Sidebar Menu -->
 		<div class="fixed-sidebar-left">
 			<ul class="nav navbar-nav side-nav nicescroll-bar">
 				<li class="navigation-header">
-					<span>Main</span> 
+					<span>Main</span>
 					<i class="zmdi zmdi-more"></i>
 				</li>
 				<li>
@@ -459,7 +450,7 @@
 				</li>
 				<li><hr class="light-grey-hr mb-10"/></li>
 				<li class="navigation-header">
-					<span>component</span> 
+					<span>component</span>
 					<i class="zmdi zmdi-more"></i>
 				</li>
 				<li>
@@ -668,7 +659,7 @@
 				</li>
 				<li><hr class="light-grey-hr mb-10"/></li>
 				<li class="navigation-header">
-					<span>featured</span> 
+					<span>featured</span>
 					<i class="zmdi zmdi-more"></i>
 				</li>
 				<li>
@@ -755,7 +746,7 @@
 			</ul>
 		</div>
 		<!-- /Left Sidebar Menu -->
-		
+
 		<!-- Right Sidebar Menu -->
 		<div class="fixed-sidebar-right">
 			<ul class="right-sidebar">
@@ -773,7 +764,7 @@
 										<div class="add-friend">
 											<a href="javascript:void(0)" class="inline-block txt-grey">
 												<i class="zmdi zmdi-more"></i>
-											</a>	
+											</a>
 											<span class="inline-block txt-dark">users</span>
 											<a href="javascript:void(0)" class="inline-block text-right txt-grey"><i class="zmdi zmdi-plus"></i></a>
 											<div class="clearfix"></div>
@@ -902,7 +893,7 @@
 												<div class="goto-back">
 													<a  id="goto_back" href="javascript:void(0)" class="inline-block txt-grey">
 														<i class="zmdi zmdi-chevron-left"></i>
-													</a>	
+													</a>
 													<span class="inline-block txt-dark">ryan</span>
 													<a href="javascript:void(0)" class="inline-block text-right txt-grey"><i class="zmdi zmdi-more"></i></a>
 													<div class="clearfix"></div>
@@ -922,7 +913,7 @@
 																		</div>
 																	</div>
 																	<div class="clearfix"></div>
-																</div>	
+																</div>
 															</li>
 															<li class="self mb-10">
 																<div class="self-msg-wrap">
@@ -932,7 +923,7 @@
 																		</div>
 																	</div>
 																	<div class="clearfix"></div>
-																</div>	
+																</div>
 															</li>
 															<li class="self">
 																<div class="self-msg-wrap">
@@ -942,19 +933,19 @@
 																		</div>
 																	</div>
 																	<div class="clearfix"></div>
-																</div>	
+																</div>
 															</li>
 															<li class="friend">
 																<div class="friend-msg-wrap">
 																	<img class="user-img img-circle block pull-left"  src="../img/user.png" alt="user"/>
-																	<div class="msg pull-left"> 
+																	<div class="msg pull-left">
 																		<p>Not too bad.</p>
 																		<div class="msg-per-detail  text-right">
 																			<span class="msg-time txt-grey">2:35 pm</span>
 																		</div>
 																	</div>
 																	<div class="clearfix"></div>
-																</div>	
+																</div>
 															</li>
 														</ul>
 													</div>
@@ -983,13 +974,13 @@
 									</div>
 								</div>
 							</div>
-								
+
 							<div id="messages_tab" class="tab-pane fade" role="tabpanel">
 								<div class="message-box-wrap">
 									<div class="msg-search">
 										<a href="javascript:void(0)" class="inline-block txt-grey">
 											<i class="zmdi zmdi-more"></i>
-										</a>	
+										</a>
 										<span class="inline-block txt-dark">messages</span>
 										<a href="javascript:void(0)" class="inline-block text-right txt-grey"><i class="zmdi zmdi-search"></i></a>
 										<div class="clearfix"></div>
@@ -1103,7 +1094,7 @@
 									<div class="add-todo">
 										<a href="javascript:void(0)" class="inline-block txt-grey">
 											<i class="zmdi zmdi-more"></i>
-										</a>	
+										</a>
 										<span class="inline-block txt-dark">todo list</span>
 										<a href="javascript:void(0)" class="inline-block text-right txt-grey"><i class="zmdi zmdi-plus"></i></a>
 										<div class="clearfix"></div>
@@ -1176,7 +1167,7 @@
 			</ul>
 		</div>
 		<!-- /Right Sidebar Menu -->
-		
+
 		<!-- Right Setting Menu -->
 		<div class="setting-panel">
 			<ul class="right-sidebar nicescroll-bar pa-0">
@@ -1186,7 +1177,7 @@
 							<span class="layout-title">Scrollable header</span>
 							<span class="layout-switcher">
 								<input type="checkbox" id="switch_3" class="js-switch"  data-color="#2ecd99" data-secondary-color="#dedede" data-size="small"/>
-							</span>	
+							</span>
 							<h6 class="mt-30 mb-15">Theme colors</h6>
 							<ul class="theme-option-wrap">
 								<li id="theme-1" class="active-theme"><i class="zmdi zmdi-check"></i></li>
@@ -1237,32 +1228,240 @@
 		</div>
 		<button id="setting_panel_btn" class="btn btn-success btn-circle setting-panel-btn shadow-2dp"><i class="zmdi zmdi-settings"></i></button>
 		<!-- /Right Setting Menu -->
-		
+
 		<!-- Right Sidebar Backdrop -->
 		<div class="right-sidebar-backdrop"></div>
 		<!-- /Right Sidebar Backdrop -->
-       
+
 		<!-- Main Content -->
 		<div class="page-wrapper">
-            <div class="container-fluid">
-				
+      <div class="container-fluid">
 				<!-- Title -->
 				<div class="row heading-bg">
 					<div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
-						<h5 class="txt-dark">blank page</h5>
+						<h5 class="txt-dark">Dashboard</h5>
 					</div>
 					<!-- Breadcrumb -->
 					<div class="col-lg-9 col-sm-8 col-md-8 col-xs-12">
 						<ol class="breadcrumb">
-							<li><a href="index.html">Dashboard</a></li>
-							<li><a href="#"><span>speciality pages</span></a></li>
-							<li class="active"><span>blank page</span></li>
+							<li class="active"><a href="index.php">Dashboard</a></li>
 						</ol>
 					</div>
 					<!-- /Breadcrumb -->
 				</div>
-				<!-- /Title -->
-			
+
+        <div class="row">
+				  <div class="col-md-8 col-md-offset-2">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+              <div class="panel panel-default card-view pa-0">
+                <div class="panel-wrapper collapse in">
+                  <div class="panel-body pa-0">
+                    <div class="sm-data-box">
+                      <div class="container-fluid">
+                        <div class="row">
+                          <div class="col-xs-6 text-center pl-0 pr-0 data-wrap-left">
+                            <span class="txt-dark block">
+                              <span>914,001</span>
+                            </span>
+                            <span class="weight-500 uppercase-font block font-13">
+                              Students
+                            </span>
+                          </div>
+                          <div class="col-xs-6 text-center  pl-0 pr-0 data-wrap-right">
+                            <i class="icon-user-following data-right-rep-icon txt-light-grey"></i>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+              <div class="panel panel-default card-view pa-0">
+                <div class="panel-wrapper collapse in">
+                  <div class="panel-body pa-0">
+                    <div class="sm-data-box">
+                      <div class="container-fluid">
+                        <div class="row">
+                          <div class="col-xs-6 text-center pl-0 pr-0 data-wrap-left">
+                            <span class="txt-dark block">
+                              <span>200</span>
+                            </span>
+                            <span class="weight-500 uppercase-font block font-13">
+                              Lecturers
+                            </span>
+                          </div>
+                          <div class="col-xs-6 text-center  pl-0 pr-0 data-wrap-right">
+                            <i class="icon-user-following data-right-rep-icon txt-light-grey"></i>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+              <div class="panel panel-default card-view pa-0">
+                <div class="panel-wrapper collapse in">
+                  <div class="panel-body pa-0">
+                    <div class="sm-data-box">
+                      <div class="container-fluid">
+                        <div class="row">
+                          <div class="col-xs-6 text-center pl-0 pr-0 data-wrap-left">
+                            <span class="txt-dark block">
+                              <span>914,001</span>
+                            </span>
+                            <span class="weight-500 uppercase-font block font-13">
+                              Courses
+                            </span>
+                          </div>
+                          <div class="col-xs-6 text-center  pl-0 pr-0 data-wrap-right">
+                            <i class="fa fa-book data-right-rep-icon txt-light-grey"></i>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+				  </div>
+        </div>
+
+        <div class="row">
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+						<div class="panel panel-default card-view panel-refresh">
+							<div class="refresh-container">
+								<div class="la-anim-1"></div>
+							</div>
+							<div class="panel-heading">
+								<div class="pull-left">
+									<h6 class="panel-title txt-dark">Attendance Statistics Summary</h6>
+								</div>
+								<div class="pull-right">
+									<a href="#" class="pull-left inline-block refresh mr-15">
+										<i class="zmdi zmdi-replay"></i>
+									</a>
+									<a href="#" class="pull-left inline-block full-screen mr-15">
+										<i class="zmdi zmdi-fullscreen"></i>
+									</a>
+									<div class="pull-left inline-block dropdown">
+										<a class="dropdown-toggle" data-toggle="dropdown" href="#" aria-expanded="false" role="button"><i class="zmdi zmdi-more-vert"></i></a>
+										<ul class="dropdown-menu bullet dropdown-menu-right"  role="menu">
+											<li role="presentation"><a href="javascript:void(0)" role="menuitem"><i class="icon wb-reply" aria-hidden="true"></i>Edit</a></li>
+											<li role="presentation"><a href="javascript:void(0)" role="menuitem"><i class="icon wb-share" aria-hidden="true"></i>Delete</a></li>
+											<li role="presentation"><a href="javascript:void(0)" role="menuitem"><i class="icon wb-trash" aria-hidden="true"></i>New</a></li>
+										</ul>
+									</div>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="panel-wrapper collapse in">
+								<div class="panel-body row pa-0">
+									<div class="table-wrap">
+										<div class="table-responsive">
+											<table class="table table-hover mb-0">
+												<thead>
+													<tr>
+														<th>Course</th>
+														<th>Year</th>
+														<th>Percent</th>
+														<th>Total</th>
+														<th>Status</th>
+													</tr>
+												</thead>
+												<tbody>
+
+                          <!-- Summary Item One -->
+													<tr>
+														<td>
+                              <span class="txt-dark weight-500">Bachelor Computer Science</span>
+                            </td>
+														<td>First Year</td>
+														<td>
+                              <span class="txt-success">
+                                <i class="zmdi zmdi-caret-up mr-10 font-20"></i>
+                                <span>70%</span></span>
+                              </td>
+														<td>
+															<span class="txt-dark weight-500">
+															  100
+															</span>
+														</td>
+														<td>
+															<span class="label label-primary">
+															  Above Average
+															</span>
+														</td>
+													</tr>
+                          <!-- End of Summary Item One -->
+
+
+                          <!-- Summary Item Two -->
+                          <tr>
+														<td>
+                              <span class="txt-dark weight-500">
+                                Diploma Computer Science</span>
+                            </td>
+														<td>First Year</td>
+														<td>
+                              <span class="txt-success">
+                                <i class="zmdi zmdi-caret-up mr-10 font-20"></i>
+                                <span>40%</span></span>
+                              </td>
+														<td>
+															<span class="txt-dark weight-500">
+															  30
+															</span>
+														</td>
+														<td>
+															<span class="label label-danger">
+															  Bellow Average
+															</span>
+														</td>
+													</tr>
+                          <!-- End of Summary Item Two -->
+
+                          <!-- Summary Item Three --->
+                          <tr>
+														<td>
+                              <span class="txt-dark weight-500">
+                                Bachelor Information Technology</span>
+                            </td>
+														<td>Second Year</td>
+														<td>
+                              <span class="txt-success">
+                                <i class="zmdi zmdi-caret-up mr-10 font-20"></i>
+                                <span>50%</span></span>
+                              </td>
+														<td>
+															<span class="txt-dark weight-500">
+															  50
+															</span>
+														</td>
+														<td>
+															<span class="label label-warning">
+															  Average
+															</span>
+														</td>
+													</tr>
+                          <!--- End of Summary Item Three -->
+
+												</tbody>
+											</table>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+        </div>
+      </div>
+
+
+
 				<!-- Footer -->
 				<footer class="footer container-fluid pl-30 pr-30">
 					<div class="row">
@@ -1274,97 +1473,15 @@
 				<!-- /Footer -->
 			</div>
 		</div>
-        <!-- /Main Content -->
-
-    </div>
-    <!-- /#wrapper -->
-	
-	<!-- JavaScript -->
-	
-    <!-- jQuery -->
-    <script src="vendors/bower_components/jquery/dist/jquery.min.js"></script>
-
-    <!-- Bootstrap Core JavaScript -->
-    <script src="vendors/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-    
-	<!-- Data table JavaScript -->
+  </div>
+  <script src="vendors/bower_components/jquery/dist/jquery.min.js"></script>
+  <script src="vendors/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
 	<script src="vendors/bower_components/datatables/media/js/jquery.dataTables.min.js"></script>
 	<script src="dist/js/dataTables-data.js"></script>
-	
-	<!-- Slimscroll JavaScript -->
 	<script src="template/dist/js/jquery.slimscroll.js"></script>
-	
-	<!-- Owl JavaScript -->
 	<script src="vendors/bower_components/owl.carousel/dist/owl.carousel.min.js"></script>
-	
-	<!-- Switchery JavaScript -->
 	<script src="vendors/bower_components/switchery/dist/switchery.min.js"></script>
-	
-	<!-- Fancy Dropdown JS -->
 	<script src="template/dist/js/dropdown-bootstrap-extended.js"></script>
-	
-	<!-- Init JavaScript -->
 	<script src="template/dist/js/init.js"></script>
-	
-	
 </body>
-
-
-<!-- Mirrored from hencework.com/theme/bunny/full-width-light/blank.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 29 Jan 2018 03:10:36 GMT -->
-=======
-	  <?php
-    include("pages/top_menu.php");
-    ?>
-		<!-- /Top Menu Items -->
-
-		<!-- Left Sidebar Menu -->
-	  <?php
-    include("pages/left_side_menu.php");
-    ?>
-		<!-- /Left Sidebar Menu -->
-
-		<!-- Right Sidebar Menu -->
-		<?php
-    include("pages/right_side_menu.php");
-     ?>
-		<!-- /Right Sidebar Menu -->
-
-		<!-- Right Setting Menu -->
-	  <?php
-    include("pages/setting_menu.php");
-     ?>
-		<!-- /Right Sidebar Backdrop -->
-
-		<!-- Main Content -->
-		<div class="page-wrapper">
-      <div class="container-fluid">
-        <!-- Title -->
-        <div class="row heading-bg">
-          <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
-            <h5 class="txt-dark">blank page</h5>
-          </div>
-          <!-- Breadcrumb -->
-          <div class="col-lg-9 col-sm-8 col-md-8 col-xs-12">
-            <ol class="breadcrumb">
-              <li class="active">
-                <a href="index.php">Home</a>
-              </li>
-            </ol>
-          </div>
-          <!-- /Breadcrumb -->
-        </div>
-        <!-- /Title -->
-
-				<!-- Footer -->
-		    <?php
-          include("pages/footer.php");
-        ?>
-			</div>
-		</div>
-    </div>
-    <?php
-    include("pages/eternal_javascript.php");
-     ?>
-</body>
->>>>>>> 0c02006ab3a2c0e1ef1eed5c240ffe3caaccee56
 </html>
