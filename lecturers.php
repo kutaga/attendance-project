@@ -1239,13 +1239,13 @@ Third Year, Bachelor of Computer Science
 				<!-- Title -->
 				<div class="row heading-bg">
 					<div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
-						<h5 class="txt-dark">Students List</h5>
+						<h5 class="txt-dark">Lecturers List</h5>
 					</div>
 					<!-- Breadcrumb -->
 					<div class="col-lg-9 col-sm-8 col-md-8 col-xs-12">
 						<ol class="breadcrumb">
 							<li><a href="index.php">Dashboard</a></li>
-              <li class="active"><a href="#">Students</a></li>
+              <li class="active"><a href="#">Lecturers</a></li>
 						</ol>
 					</div>
 				</div>
@@ -1258,7 +1258,7 @@ Third Year, Bachelor of Computer Science
 						<div class="panel panel-default card-view">
 							<div class="panel-heading">
 								<div class="pull-left">
-									<h6 class="panel-title txt-dark">Students</h6>
+									<h6 class="panel-title txt-dark">Lecturers</h6>
 								</div>
 								<div class="clearfix"></div>
 							</div>
@@ -1272,7 +1272,6 @@ Third Year, Bachelor of Computer Science
 													<th>#</th>
 													<th>First Name</th>
 													<th>Last Name</th>
-													<th>Course</th>
 													<th>Action</th>
 												  </tr>
 												</thead>
@@ -1281,7 +1280,6 @@ Third Year, Bachelor of Computer Science
   													<td>1</td>
   													<td>Daniel</td>
   													<td>Kindimba</td>
-  													<td>Bachelor of Computer Science</td>
   													<td>
                               <a href="" class="btn btn-sm btn-success">
                                 <i class="fa fa-edit"></i>
@@ -1297,7 +1295,6 @@ Third Year, Bachelor of Computer Science
   													<td>2</td>
   													<td>Emmanuel</td>
   													<td>Mtangi</td>
-  													<td>Bachelor of Computer Science</td>
   													<td>
                               <a href="" class="btn btn-sm btn-success">
                                 <i class="fa fa-edit"></i>
@@ -1314,7 +1311,6 @@ Third Year, Bachelor of Computer Science
   													<td>3</td>
   													<td>Walter</td>
   													<td>Kindimba</td>
-  													<td>Bachelor of Computer Science</td>
   													<td>
                               <a href="" class="btn btn-sm btn-success">
                                 <i class="fa fa-edit"></i>
