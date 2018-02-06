@@ -37,7 +37,7 @@
 					<div class="logo-wrap">
 						<a href="template/index.html">
 							<img class="brand-img" src="img/logo.png" alt="brand"/>
-							<span class="brand-text">Bunny</span>
+							<span class="brand-text">Attendence</span>
 						</a>
 					</div>
 				</div>	
@@ -388,7 +388,7 @@
 													<th>First Name</th>
 													<th>Last Name</th>
 													<th>Username</th>
-													<th>Role</th>
+													<th>Attendence</th>
 												  </tr>
 												</thead>
 												<tbody>
@@ -397,42 +397,42 @@
 													<td>Jens</td>
 													<td>Brincker</td>
 													<td>Brincker123</td>
-													<td><span class="label label-danger">admin</span> </td>
+													<td><span class="label label-danger">Present</span> </td>
 												  </tr>
 												  <tr>
 													<td>2</td>
 													<td>Mark</td>
 													<td>Hay</td>
 													<td>Hay123</td>
-													<td><span class="label label-info">member</span> </td>
+													<td><span class="label label-danger">Present</span> </td>
 												  </tr>
 												  <tr>
 													<td>3</td>
 													<td>Anthony</td>
 													<td>Davie</td>
 													<td>Davie123</td>
-													<td><span class="label label-warning">developer</span> </td>
+													<td><span class="label label-danger">Present</span> </td>
 												  </tr>
 												  <tr>
 													<td>4</td>
 													<td>David</td>
 													<td>Perry</td>
 													<td>Perry123</td>
-													<td><span class="label label-success">supporter</span> </td>
+												<td><span class="label label-danger">Present</span> </td>
 												  </tr>
 												  <tr>
 													<td>5</td>
 													<td>Anthony</td>
 													<td>Davie</td>
 													<td>Davie123</td>
-													<td><span class="label label-info">member</span> </td>
+													<td><span class="label label-danger">Present</span> </td>
 												  </tr>
 												  <tr>
 													<td>6</td>
 													<td>Alan</td>
 													<td>Gilchrist</td>
 													<td>Gilchrist123</td>
-													<td><span class="label label-success">supporter</span> </td>
+													<td><span class="label label-danger">Present</span> </td>
 												  </tr>
 												</tbody>
 											</table>
